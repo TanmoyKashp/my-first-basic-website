@@ -1,0 +1,111 @@
+h1{
+   position: absolute;
+   left: 100px;
+   top: 40px; 
+   font-family:'Courier New', Courier, monospace;
+   font-size: medium;
+}
+h2{
+    position: absolute;
+    right: 100px;
+    top: 10px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: medium;
+  }
+ body{
+    background: rgb(193,186,209);
+background: linear-gradient(65deg, rgba(193,186,209,1) 0%, rgba(196,178,178,1) 39%, rgba(201,171,171,1) 55%, rgba(0,212,255,1) 100%); 
+  }
+  
+ h3{
+     font-size: 200%;
+     position:absolute;
+     left: 40%;
+     top: 40%;
+     font-family:'Courier New', Courier, monospace;
+ }     
+ h4{
+     font-size: 200%;
+     position: absolute;
+     left: 35%;
+     top: 70%;
+     font-family:'Courier New', Courier, monospace;
+ }
+ h5{
+    font-size: medium;
+    position: absolute;
+    left: 20%;
+    top: 85%;
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+p{
+    font-size: medium;
+    position: absolute;
+    left: 20%;
+    top: 55%;
+    font-family:'Courier New', Courier, monospace;
+}
+h6{
+    font-size: 200%;
+    position: absolute; 
+    left: 40%;
+    top: 10%;
+    font-family:'Courier New', Courier, monospace;
+}
+h7{
+    font-size: medium;
+    position: absolute;
+    left: 20%;
+    top: 40%;
+    font-family:'Courier New', Courier, monospace;
+}
+h8{
+    font-size: 200%;
+    position: absolute;
+    left: 20%;
+    top: 130%;
+    font-family:'Courier New', Courier, monospace;
+}
+h9{
+    font-size: medium;
+    position: absolute;
+    left: 20%;
+    top: 140%;
+    font-family:'Courier New', Courier, monospace;
+}
+h10{
+    font-size: 200%;
+    position:absolute;
+    left: 20%;
+    top: 160%;
+    font-family:'Courier New', Courier, monospace;
+}
+h12{
+    font-size: 200%;
+    position:absolute;
+    left: 35%;
+    top: 30%;
+    font-family:'Courier New', Courier, monospace;
+}
+h13{
+    font-size: medium;
+    position:absolute;
+    left: 35%;
+    top: 40%;
+    font-family:'Courier New', Courier, monospace;
+}
+h14{
+    font-size: medium;
+    position:absolute;
+    left: 35%;
+    top: 45%;
+    font-family:'Courier New', Courier, monospace;
+}
+h15{
+    font-size: medium;
+    position:absolute;
+    left: 25%;
+    top: 60%;
+    font-family:'Courier New', Courier, monospace;
+}
